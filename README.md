@@ -18,9 +18,9 @@
     * Vs code
     
 
-## Live Demo (if available)
+## Live Demo (Click the link below)
 
-[Live Demo Link](https://livedemo.com)
+[The Kingdome Comes Global Worship Conference](https://alierpm.github.io/thekingdomcomes.github.io/)
 
 
 ### To get a local copy up and running
