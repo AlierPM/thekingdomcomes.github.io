@@ -62,18 +62,6 @@ const speakers = [
     bio: 'A man who break the cages and chain of demoinic schemics with his Holy Ghost chant',
     image: './images/Theopilus.png',
   },
-  {
-    name: 'Victoria Orenze',
-    gift: 'An Anointed Worship Leader',
-    bio: 'She is a blessing to this generation with her healing and igniting worship songs. She is emptying hell and expanding the Kingdom.',
-    image: './images/Victoria.png',
-  },
-  {
-    name: 'Ada Eli',
-    gift: 'An Anointed Gospel Artist',
-    bio: 'She is a composer to a hundred of Gospel songs. She is one of the blessed and laeding Gospel Artists in Nigeria',
-    image: './images/Ada-Eli.png',
-  },
 ];
 
 function createSpeakers() {
